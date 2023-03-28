@@ -1,2 +1,2 @@
 # OIBSIP
-INTERNSHIP PROJECTS DONE AT OASIS INFOBYTE
+Projects done at Oasis Infobyte as Web Development Intern 
